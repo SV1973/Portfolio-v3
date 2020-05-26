@@ -1,16 +1,16 @@
 @font-face {
     font-family: cn-bold;
-    src: url(./FONTS-DIR/ComicNeue-Bold.ttf);
+    src: url(./ComicNeue-Bold.ttf);
 }
 
 @font-face {
     font-family: cn-regular;
-    src: url(./FONTS-DIR/ComicNeue-Regular.ttf);
+    src: url(./ComicNeue-Regular.ttf);
 }
 
 @font-face {
     font-family: cn-light;
-    src: url(./FONTS-DIR/ComicNeue-Light.ttf);
+    src: url(./ComicNeue-Light.ttf);
 }
 
 body {
